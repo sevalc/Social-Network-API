@@ -26,3 +26,10 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 https://github.com/sevalc/Social-Network-API
 
 ### Walkthrough Video:
+https://watch.screencastify.com/v/vrSjACeWtJanZ2tJkq8H
+
+## instructions for set up
+PLease run <npm i> in your terminal to be able to install dependencies before you start index.js file 
+
+## Screenshot
+![Screenshot from insomnia](social_network_scshot.JPG)
