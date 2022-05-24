@@ -29,7 +29,7 @@ https://github.com/sevalc/Social-Network-API
 https://watch.screencastify.com/v/vrSjACeWtJanZ2tJkq8H
 
 ## instructions for set up
-PLease run <npm i> in your terminal to be able to install dependencies before you start index.js file 
+PLease run "npm i" in your terminal to be able to install dependencies before you start index.js file 
 
 ## Screenshot
 ![Screenshot from insomnia](social_network_scshot.JPG)
